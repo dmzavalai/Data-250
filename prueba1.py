@@ -52,3 +52,6 @@ print (otra)
 # %%
 #print (chart)
 # %%
+
+#hola
+#hola2
