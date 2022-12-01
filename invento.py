@@ -24,3 +24,5 @@ otra = (esta.assign(ratios = lambda x:  x.violent / x.murder))
 daniel = (otra.filter (["violent","murder","murder","male","ratios"],))
 
 #hola2
+#hola3
+#hola 4
