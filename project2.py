@@ -87,10 +87,16 @@ bars_month = (alt.Chart(month, title='Flights Delay Perentage', width = 400)
             )
 
 #%%
-# last ediiton
-irias = ("lol")
+# last ediiton22222
 
-zavala = ("hola")
+prube = ("hola")
 
 
+
+
+
+
+<<<<<<< HEAD
 martin = ("otro")
+=======
+>>>>>>> b6b8378e9e81a42232c9d55c9132acb2fd1ac0c5
