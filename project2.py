@@ -92,9 +92,5 @@ irias = ("lol")
 
 zavala = ("hola")
 
-<<<<<<< HEAD
 
-ana = ("lol")
-=======
 martin = ("otro")
->>>>>>> dc4523a5fa4fff40d4e0356d4c7dd1c7932770d8
